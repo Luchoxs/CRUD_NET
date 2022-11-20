@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CRUD_net2.props" />
+</Project>
